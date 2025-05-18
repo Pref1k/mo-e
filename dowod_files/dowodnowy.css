@@ -28,7 +28,7 @@ p.czas {
 
 main {
     position: relative;
-    background-image: url("pobrane.png");
+    background-image: url();
     margin: 16px 20px 0px 20px;
     height: 385px;
     display: flex;
